@@ -3,7 +3,7 @@ import 'package:flutter_neumorphic/flutter_neumorphic.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
 import 'package:flutter_svg/flutter_svg.dart';
 
-final String TitleName = 'images/ArcheryScoreSheet.svg';
+final String TitleName = 'assets/ArcheryScoreSheet.svg';
 final Widget svg = SvgPicture.asset(
   TitleName,
   width: 145.w,
